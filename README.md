@@ -1,8 +1,8 @@
 # Fsocitey
 
-##Smart India Hackathon 2023
+## Smart India Hackathon 2023
 
-##Aim of the Project
+## Aim of the Project
 
 This model works on the principle of automated or self driving vehicles available in the market.
 The camera sensor can be monitored at real time and 2 major objectives i.e. Accident Alert and Road damage alert can be implemented.
